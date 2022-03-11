@@ -17,4 +17,6 @@ namespace StackQueue
             next = null;
         }
     }
+
 }
+
